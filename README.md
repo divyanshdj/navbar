@@ -1,6 +1,3 @@
-
-Responsive Navbar using HTML, CSS and JS
-
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/divyanshdj/navbar)
@@ -10,9 +7,9 @@ Responsive Navbar using HTML, CSS and JS
 </div>
 <div align="left">
 
-  # yt-card
+  # navbar
 
-  This repository contains code for a dynamic YouTube card generator using HTML, CSS, and JavaScript. Users can create visually appealing cards with thumbnail images, channel names, titles, and more, all dynamically generated from array data.
+  Responsive Navbar using HTML, CSS and JS
 
   Explore Here :   <a href="https://resp-nav-bar.netlify.app/" target="_blank"><strong>➥ Live Demo</strong></a>
 
