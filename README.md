@@ -1,11 +1,11 @@
-# navbar
+
 Responsive Navbar using HTML, CSS and JS
 
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/divyanshdj/yt-card)
-  ![GitHub language count](https://img.shields.io/github/languages/count/divyanshdj/yt-card)
-  ![GitHub stars](https://img.shields.io/github/stars/divyanshdj/yt-card?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/divyanshdj/navbar)
+  ![GitHub language count](https://img.shields.io/github/languages/count/divyanshdj/navbar)
+  ![GitHub stars](https://img.shields.io/github/stars/divyanshdj/navbar?style=social)
 
 </div>
 <div align="left">
@@ -14,7 +14,7 @@ Responsive Navbar using HTML, CSS and JS
 
   This repository contains code for a dynamic YouTube card generator using HTML, CSS, and JavaScript. Users can create visually appealing cards with thumbnail images, channel names, titles, and more, all dynamically generated from array data.
 
-  Explore Here :   <a href="https://yt-cards.netlify.app/" target="_blank"><strong>➥ Live Demo</strong></a>
+  Explore Here :   <a href="https://resp-nav-bar.netlify.app/" target="_blank"><strong>➥ Live Demo</strong></a>
 
 </div>
 
