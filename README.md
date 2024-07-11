@@ -7,7 +7,7 @@
 </div>
 <div align="left">
 
-  # navbar
+  # Navbar
 
   Responsive Navbar using HTML, CSS and JS
 
